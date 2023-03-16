@@ -78,6 +78,12 @@
       <a href="https://firebase.google.com/" target="_blank">
         <img src="https://pluspng.com/img-png/firebase-logo-png-firebase-logo-png-transparent-amp-svg-vector-pluspng-2400x3291.png"
             alt="Firebase"  height="40" /> </a>
+        <a href="https://www.djangoproject.com/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogodix.com%2Flogo%2F1758841.png&f=1&nofb=1&ipt=c269d66967e864bd1960d6f9039226747e6869380a939c214e5eaf1a7826cb6c&ipo=images"
+            alt="Django"  height="40" /> </a>
+          <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fmongodb_logo_icon_170944.png&f=1&nofb=1&ipt=0a3245df5a385a1a17174201f66b21b60545992075cefa33f7fc16b29532eb38&ipo=images"
+            alt="MondoDB"  height="40" /> </a>
 </p> 
 </p>
 
@@ -85,7 +91,7 @@
 <h4 align="left">Cloud Services</h4>  
 <p align="left">
     <a href="https://learn.microsoft.com/en-us/training/azure/" target="_blank">
-        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F66m4i2zg7xf1y14ot28gqej8-wpengine.netdna-ssl.com%2Fwp-content%2Fuploads%2F2020%2F05%2Fazure-icon-e1589995182217.png&f=1&nofb=1&ipt=bc1bf7c2e45b1858e382997790e558d9631adbb3aa9e081362d06d34f2c87796&ipo=images"
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fswimburger.net%2Fmedia%2Fppnn3pcl%2Fazure.png&f=1&nofb=1&ipt=7882fb0296c3e3b05092e75b3df8e23513bc0a2ddf68a5a37bff861ed2aa0e25&ipo=images"
             alt="Azure" width="50" height="40" /> </a>
       <a href="https://cloud.google.com/training" target="_blank">
         <img src="https://www.join.law/images/product/google/cloud-icon.png"

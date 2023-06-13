@@ -7,9 +7,9 @@
 
 - :octocat: I'm an aspiring <b>Full Stack Machine Learning Engineer
 - 👀 I’m interested in Machine Learning, Mobile Development, Web Development, Computer Vision
-- 🌱 I’m currently learning Flutter, Javascript, Python, Machine Learning.
+- 🌱 I’m currently learning Flutter, Javascript, Python, Machine Learning, and Computer Vision.
   
-- 💞️ I’m looking to collaborate on <b>Machine Learning, Data Science, Mobile Development, Web Development project
+- 💞️ I’m looking to collaborate on <b>Computer Vision, Mobile Development, Web Development project
 
   
 <h3 align="left">Languages and Tools:</h3>
@@ -32,6 +32,9 @@
         <a href="https://www.w3schools.com/js/DEFAULT.asp" target="_blank">
         <img src="https://pluspng.com/img-png/javascript-vector-png-javascript-vector-logo-600.png"
             alt="javascript" width="40" height="40" /> </a>
+        <a href="https://svelte.dev/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Frednet.io%2Fassets%2Farticles%2F2021-05-27-svelte-getting-started%2Fsvelte-logo.png&f=1&nofb=1&ipt=a67303df0f932ef5a1d908cd302ff83412a5a8aecb17699d2a0b622ad740d942&ipo=images"
+            alt="svelte" width="40" height="40" /> </a>
 </p>  
   
 <h4 align="left">Mobile Development</h4>
@@ -46,9 +49,6 @@
     <a href="https://www.w3schools.com/cpp/" target="_blank">
         <img src="https://user-images.githubusercontent.com/63916254/158005176-11c89c3f-527d-49f6-847e-ab8bd0265728.png"
             alt="cplusplus" width="40" height="40" /> </a>
-      <a href="https://www.w3schools.com/java/default.asp" target="_blank">
-        <img src="https://user-images.githubusercontent.com/63916254/158005243-055cea46-cc4d-4622-a5bc-c3dfc4d013d0.png"
-            alt="java" width="45" height="45" /> </a>
 </p>  
   
 <h4 align="left">Machine Learning</h4>  
@@ -67,7 +67,10 @@
             alt="mediapipe"  height="50" /> </a>
         <a href="https://www.tensorflow.org/learn" target="_blank">
         <img src="https://www.gstatic.com/devrel-devsite/prod/vefe830b4ddbb6fbf9f8f84fc45bd4079738c13cea1a4dbeb400bd711e695c305/tensorflow/images/lockup.svg"
-            alt="tensorflow"   height="50" /> </a>  
+            alt="tensorflow"   height="50" /> </a> 
+         <a href="https://pytorch.org/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.icon-icons.com%2Ficons2%2F2699%2FPNG%2F512%2Fpytorch_logo_icon_169823.png&f=1&nofb=1&ipt=153275c962694424734711c0fc838f9baf5e973cf34d458caa1eb12094c1da3a&ipo=images"
+            alt="pytorch"   height="50" /> </a> 
 </p>
   
 <h4 align="left">Backend</h4>  

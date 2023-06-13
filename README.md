@@ -2,8 +2,6 @@
 
 
 <h1>👋 Hello World, I’m @shaunliew from Malaysia</h1>
-<p> <b>Motto: </b><i>Not everyone who works hard is rewarded. But those who succeed worked hard.</i><p>
-
 
 - :octocat: I'm an aspiring <b>Full Stack Machine Learning Engineer
 - 👀 I’m interested in Machine Learning, Mobile Development, Web Development, Computer Vision
@@ -13,7 +11,13 @@
 
   
 <h3 align="left">Languages and Tools:</h3>
-  
+
+<h4 align="left">Operating System</h4>
+<p align="left">
+    <a href="https://ubuntu.com/" target="_blank">
+        <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F02%2FUbuntu.png&f=1&nofb=1&ipt=7f5cf83092dcd00a6b2693a993624b3686faa48a0aa87ac5890385b139895781&ipo=images"
+            alt="Ubuntu" width="40" height="40" /> </a>
+</p>   
 <h4 align="left">Web Development</h4>
   
 <p align="left">

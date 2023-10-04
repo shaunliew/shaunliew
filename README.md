@@ -18,7 +18,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Operating System</h4>
-<a href="https://shaunliew.hashnode.dev/" target="_blank">
+<a href="https://ubuntu.com/download/desktop" target="_blank">
   <img src="https://img.shields.io/badge/ubuntu-white?logo=ubuntu&labelColor=white&color=orange" alt="ubuntu">
 </a> 
 <h4 align="left">Deployment</h4>

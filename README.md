@@ -1,4 +1,5 @@
-![Banner](https://user-images.githubusercontent.com/63916254/202082283-98d8a84c-c141-4e25-b9bf-a97796ea0b15.png)
+
+![shaun_banner](https://github.com/shaunliew/shaunliew/assets/63916254/1ff2ca7e-9e51-4124-bfa5-01f6bcfe823f)
 
 
 <h1>👋 Hello World, I’m @shaunliew from Malaysia</h1>

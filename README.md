@@ -125,8 +125,9 @@
             alt="Postman API" /> </a>  
 </p> 
 
-[![shaunliew’s github stats](https://github-readme-stats.vercel.app/api?username=shaunliew&theme=tokyonight)](https://github.com/shaunliew)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunliew&layout=compact&theme=react)](https://github.com/shaunliew)
+[![shaunliew’s github stats](https://github-readme-stats.vercel.app/api?username=shaunliew&theme=dracula)](https://github.com/shaunliew)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunliew&layout=compact&theme=dracula)](https://github.com/shaunliew)
+[![Github Contributor Stats](https://github-contributor-stats.vercel.app/api?username=shaunliew&limit=5&theme=dracula)](https://github.com/shaunliew)
 
 <h2>Let's connect</h2>
 <p align="left">

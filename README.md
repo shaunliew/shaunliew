@@ -6,11 +6,11 @@
 
 ![Pikachu](https://media.giphy.com/media/xuXzcHMkuwvf2/giphy.gif)
 
-- :octocat: I'm an aspiring <b>Full Stack Computer Vision Engineer.
-- :mag: I’m interested in Computer Vision, Web Development.
-- :books: I’m currently learning Svelte, Typescript, Pytorch, and Computer Vision.
+- :octocat: I'm a research engineer @ Singapore Institute of Technology Nvidia AI Center (SNAIC).
+- :mag: I’m interested in Computer Vision, Web Development, VLM, AIGC.
+- :books: I’m currently learning AIGC,Pytorch.
   
-- :busts_in_silhouette: I’m looking to collaborate on <b>Computer Vision, Web Development project.
+- :busts_in_silhouette: I’m looking to collaborate on <b>Computer Vision,VLM,AIGC project.
 
 <h3 align="left">Blogs:</h3>
 <a href="https://shaunliew.hashnode.dev/" target="_blank">
@@ -72,12 +72,13 @@
        <a href="https://opencv.org/" target="_blank">
         <img src="https://img.shields.io/badge/opencv-blue?logo=opencv&logoColor=red&labelColor=white&color=red"
             alt="opencv" /> </a>
-        <a href="https://www.tensorflow.org/learn" target="_blank">
-        <img src="https://img.shields.io/badge/tensorflow-orange?logo=tensorflow&labelColor=white&color=orange"
-            alt="tensorflow" /> </a> 
          <a href="https://pytorch.org/" target="_blank">
         <img src="https://img.shields.io/badge/pytorch-red?logo=pytorch&labelColor=white&color=red"
             alt="pytorch" /> </a> 
+        <a href="https://www.langchain.com/" target="_blank">
+        <img src="https://img.shields.io/badge/LangChain-1c3c3c.svg?logo=langchain&logoColor=white"
+            alt="langchain" /> </a> 
+        
 </p>
   
 <h4 align="left">Backend</h4>  
@@ -103,12 +104,12 @@
   
 <h4 align="left">Cloud Services</h4>  
 <p align="left">
-    <a href="https://learn.microsoft.com/en-us/training/azure/" target="_blank">
-        <img src="https://img.shields.io/badge/Microsoft Azure-blue?logo=microsoftazure&logoColor=blue&labelColor=white&color=blue"
-            alt="Azure" /> </a>
+    <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white"
+            alt="AWS" /> </a>
       <a href="https://cloud.google.com/training" target="_blank">
         <img src="https://img.shields.io/badge/Google%20Cloud-blue?logo=googlecloud&labelColor=white&color=blue"
-            alt="gcp" /> </a>
+            alt="GCP" /> </a>
 </p> 
 </p>
   
